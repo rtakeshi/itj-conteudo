@@ -171,3 +171,21 @@ A adoção do trabalho em pares nas disciplinas de POO e Banco de Dados contribu
 - aproximação entre ensino técnico e realidade profissional  
 
 Trata-se de uma abordagem que valoriza o aprendizado colaborativo e prepara o estudante de forma mais completa para os desafios da área de tecnologia.
+
+
+
+## 🤖 Uso Ético de IA Generativa
+
+O uso de ferramentas de **IA generativa** é permitido e incentivado neste curso, desde que feito de forma **ética, crítica e responsável**, com foco no aprendizado real.
+
+A IA deve ser utilizada como **apoio ao estudo**, ajudando a:
+- compreender conceitos  
+- explorar alternativas de solução  
+- investigar erros  
+- aprofundar o entendimento dos temas  
+
+O uso de IA para **copiar e colar respostas ou código sem compreensão** é desincentivado e contraria os objetivos do curso.
+
+O aluno é sempre o **responsável intelectual** pelo que entrega e deve ser capaz de explicar, justificar e adaptar qualquer conteúdo utilizado.
+
+Aqui, a IA é uma aliada para aprender melhor — não um atalho para evitar o aprendizado.
