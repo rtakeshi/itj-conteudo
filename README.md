@@ -1,4 +1,9 @@
+Este repositório é a fonte de referência das disciplinas **Programação Orientada a Objetos (POO)** e **Banco de Dados** do ITJ — Instituto de Tecnologia de Jacareí. Essas disciplinas fazem parte do núcleo do Curso Técnico em Informática. Aqui você encontrará materiais de aula, exemplos, exercícios e recursos de apoio para alunos e professores.
+
+
 # 📘 Aprendizagem em Pares no Ensino Técnico de Programação
+
+
 
 ## Uma abordagem colaborativa para POO e Banco de Dados
 
