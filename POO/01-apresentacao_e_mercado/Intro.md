@@ -99,36 +99,30 @@ O time central define padrões e arquitetura, enquanto os times de produto imple
 
 ## Glossário
 
-### A
 **API (Application Programming Interface)**  
 Interface que permite que diferentes softwares se comuniquem entre si. Facilita a integração entre sistemas.
 
 **Arquiteto de Software**  
 Profissional responsável por definir a estrutura e arquitetura geral dos sistemas, garantindo escalabilidade e qualidade.
 
-### B
 **Backend**  
 Parte da aplicação que roda no servidor, responsável pela lógica de negócio, processamento de dados e APIs.
 
 **Bug**  
 Erro ou defeito no código que causa comportamento inesperado na aplicação.
 
-### C
 **CI/CD (Continuous Integration/Continuous Deployment)**  
 Prática que automatiza testes e deploy de código, garantindo entrega rápida e confiável.
 
-### D
 **DevOps**  
 Profissional que trabalha com deploy, infraestrutura e automação, conectando desenvolvimento e operações.
 
 **Design Pattern**  
 Solução reutilizável para problemas comuns em desenvolvimento de software.
 
-### E
 **Engenharia de Software**  
 Disciplina que aplica princípios de engenharia ao desenvolvimento de software, focando em qualidade e sustentabilidade.
 
-### F
 **Framework**  
 Estrutura base de código reutilizável que facilita e acelera o desenvolvimento de aplicações.
 
@@ -138,15 +132,12 @@ Parte da aplicação que o usuário interage, responsável pela interface visual
 **Full Stack**  
 Desenvolvedor que domina tanto frontend quanto backend, podendo trabalhar em todas as camadas da aplicação.
 
-### I
 **Infraestrutura**  
 Conjunto de recursos e serviços que suportam a execução de aplicações (servidores, redes, bancos de dados).
 
-### M
 **Manutenção de Código**  
 Atividade contínua de correção de bugs, melhorias e adaptações em código existente.
 
-### P
 **POO (Programação Orientada a Objetos)**  
 Paradigma de programação que organiza código através de objetos, classes, herança e polimorfismo.
 
@@ -156,37 +147,21 @@ Profissional responsável por criar a experiência visual, fluxos e interfaces d
 **Product Manager (PM)**  
 Profissional que define prioridades, roadmap e requisitos do produto, comunicando entre negócio e desenvolvimento.
 
-### Q
 **QA (Quality Assurance)**  
 Área responsável por testes, validação e garantia de qualidade do software.
 
-### S
 **SDK (Software Development Kit)**  
 Conjunto de ferramentas e bibliotecas que facilita o desenvolvimento de aplicações.
 
 **Serviços**  
 Componentes de software independentes que realizam funções específicas e se comunicam via APIs.
 
-### T
 **Tech Lead**  
 Desenvolvedor sênior que lidera um time tecnicamente, orientando em arquitetura e qualidade de código.
 
 **Testes Automatizados**  
 Testes de software executados automaticamente por máquinas, validando funcionalidades sem intervenção manual.
 
-### V
 **Validação**  
 Processo de verificar se o código está correto e atende aos requisitos especificados.
 
----
-
-**Tech Leads (Backend, Frontend, Plataforma)  
-- Desenvolvedores Backend  
-- Desenvolvedores Frontend  
-- Product Designersandes empresas de tecnologia.
-
-- Desenvolvedores Backend  
-- Desenvolvedores Frontend  
-- QA Automation  
-- Engenheiros DevOps  
-- Arquitetos de Software  
