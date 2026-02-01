@@ -40,27 +40,31 @@ Este formato está alinhado com práticas modernas de ensino técnico, onde o fo
 
 Ao longo do curso, as avaliações observam um conjunto fixo de capacidades (capabilities), que representam habilidades essenciais para as disciplinas de Programação e Banco de Dados.
 
-Exemplos de capabilities avaliadas:
+####  Programação / Pensamento Computacional
 
-**Programação / Pensamento Computacional**
-- Lógica de programação
-- Organização de informações
-- Separação entre dados e ações
-- Entendimento de regras de negócio
-- Capacidade de abstração
-- Evolução e adaptação de soluções
-- Comunicação técnica
-- Contato com ferramentas de desenvolvimento
+| Código | Capability |
+|--------|------------|
+| POO1 | Lógica de programação |
+| POO2 | Organização de informações |
+| POO3 | Separação dados × ações |
+| POO4 | Entendimento de regras |
+| POO5 | Abstração |
+| POO6 | Evolução de soluções |
+| POO7 | Comunicação técnica |
+| POO8 | Contato com ferramentas |
 
-**Banco de Dados / Pensamento em Dados**
-- Reconhecimento de conceitos de banco de dados
-- Diferenciação entre SGBD e linguagem de consulta
-- Entendimento funcional da linguagem SQL
-- Diferenciação entre DDL, DML e consultas
-- Pensamento relacional
-- Consciência sobre integridade e erros de dados
-- Contato com ferramentas de banco de dados
-- Capacidade analítica sobre uso e organização de dados
+####  Banco de Dados / Pensamento em Dados
+
+| Código | Capability |
+|--------|------------|
+| BD1 | Reconhecimento de conceitos de banco de dados |
+| BD2 | Diferenciação SGBD × SQL |
+| BD3 | Entendimento funcional de SQL |
+| BD4 | Diferenciação DDL / DML / Consulta |
+| BD5 | Pensamento relacional |
+| BD6 | Integridade e consistência de dados |
+| BD7 | Contato com ferramentas |
+| BD8 | Análise e uso da informação |
 
 Essas capabilities permanecem as mesmas durante todo o ano letivo.
 
