@@ -1,154 +1,216 @@
-# Sistema de Avaliação Baseado em Evolução e Capabilities
+# Avaliação Diagnóstica Unificada  
+## Programação e Banco de Dados
 
-## 1. Proposta da Avaliação
-
-Este curso adota um modelo de avaliação que vai além da simples atribuição de notas.  
-O objetivo principal é **medir, acompanhar e estimular a evolução real dos alunos ao longo do tempo**, considerando não apenas o resultado final, mas o processo de aprendizagem.
-
-A avaliação diagnóstica inicial tem como finalidade:
-- identificar conhecimentos prévios da turma;
-- mapear diferentes níveis de entendimento e contato com ferramentas;
-- servir como **linha de base (baseline)** para acompanhar a evolução individual e coletiva ao longo do ano letivo.
-
-As avaliações subsequentes (bimestrais, trabalhos e projetos) não substituem essa proposta, mas **alimentam continuamente o mesmo sistema de análise**, permitindo observar crescimento, consolidação e amadurecimento técnico.
+**Curso:** Técnico em Informática  
+**Disciplinas:** Programação / Banco de Dados  
+**Caráter:** Diagnóstico  
 
 ---
 
-## 2. Embasamento Técnico e Pedagógico
+## Instruções Gerais
 
-Do ponto de vista pedagógico, este sistema se baseia nos seguintes princípios:
+Esta avaliação tem como objetivo compreender como você pensa, organiza ideias e entende conceitos relacionados à tecnologia.
 
-- **Avaliação como instrumento de aprendizagem**, não apenas de classificação;
-- Valorização do progresso individual e coletivo;
-- Estímulo à cooperação entre alunos;
-- Redução da ansiedade associada a avaliações tradicionais;
-- Desenvolvimento de autonomia e pensamento crítico.
-
-Do ponto de vista técnico, o modelo:
-- separa avaliação de conhecimento conceitual de avaliação de habilidades práticas;
-- utiliza métricas consistentes ao longo do tempo;
-- permite análise quantitativa da evolução da turma;
-- possibilita visualização clara dos avanços e dificuldades por meio de indicadores.
-
-Este formato está alinhado com práticas modernas de ensino técnico, onde o foco não é apenas “saber responder”, mas **saber pensar, aplicar e evoluir**.
+- Não há respostas certas ou erradas.
+- Não é necessário usar termos técnicos.
+- Explique seu raciocínio com clareza.
+- Não é necessário escrever código.
 
 ---
 
-## 3. Metodologia de Análise
+# PARTE 1 — Linguagens de Programação
 
-### 3.1 Capabilities Avaliadas
+### 1. Linguagem Java
 
-Ao longo do curso, as avaliações observam um conjunto fixo de capacidades (capabilities), que representam habilidades essenciais para as disciplinas de Programação e Banco de Dados.
+Imagine que a escola escolheu **Java** para desenvolver um sistema de controle da biblioteca.
 
-Exemplos de capabilities avaliadas:
-
-**Programação / Pensamento Computacional**
-- Lógica de programação
-- Organização de informações
-- Separação entre dados e ações
-- Entendimento de regras de negócio
-- Capacidade de abstração
-- Evolução e adaptação de soluções
-- Comunicação técnica
-- Contato com ferramentas de desenvolvimento
-
-**Banco de Dados / Pensamento em Dados**
-- Reconhecimento de conceitos de banco de dados
-- Diferenciação entre SGBD e linguagem de consulta
-- Entendimento funcional da linguagem SQL
-- Diferenciação entre DDL, DML e consultas
-- Pensamento relacional
-- Consciência sobre integridade e erros de dados
-- Contato com ferramentas de banco de dados
-- Capacidade analítica sobre uso e organização de dados
-
-Essas capabilities permanecem as mesmas durante todo o ano letivo.
+Explique, com suas palavras:
+- Por que uma linguagem como Java pode ser usada para criar sistemas maiores
+- Que tipo de preocupação um programador precisa ter ao usar Java nesse tipo de sistema
 
 ---
 
-### 3.2 Conhecimento Técnico e Ferramentas
+### 2. Linguagem Python
 
-Além do raciocínio conceitual, o sistema considera o **nível de contato do aluno com ferramentas**, como:
-- linguagens de programação;
-- ambientes de desenvolvimento (IDE);
-- bancos de dados;
-- SQL;
-- ferramentas de banco de dados;
-- prompt / terminal;
-- controle de versão.
+Agora imagine que a escola escolheu **Python** para o mesmo sistema.
 
-Esse mapeamento permite diferenciar:
-- dificuldade conceitual;
-- falta de exposição prática;
-- oportunidades de apoio e cooperação entre alunos.
+Explique:
+- Em que tipo de situação Python pode ser uma boa escolha
+- Que vantagens essa linguagem pode oferecer para quem está aprendendo programação
 
 ---
 
-### 3.3 Escala de Valores
+### 3. Linguagem JavaScript
 
-Cada capability é avaliada em uma escala numérica padronizada:
+Por fim, imagine que o sistema da biblioteca precise ter uma interface que funcione no navegador.
 
-| Nível | Valor | Descrição |
-|-----|------|-----------|
-| Não demonstra | 0 | Não reconhece o conceito |
-| Reconhece | 1 | Já ouviu falar ou identifica superficialmente |
-| Compreende | 2 | Explica com coerência |
-| Aplica | 3 | Utiliza em contexto ou exemplo |
-| Consolida | 4 | Relaciona conceitos e generaliza soluções |
-
-Essa escala permite análises comparáveis entre diferentes avaliações e períodos.
+Explique:
+- Por que JavaScript seria importante nesse cenário
+- O que ele permite fazer no navegador que outras linguagens não fazem diretamente
 
 ---
 
-## 4. Avaliação Formal e Evolução do Aluno
+# PARTE 2 — Contato com Conceitos e Ferramentas
 
-A avaliação diagnóstica inicial **não tem caráter eliminatório**.  
-Ela estabelece o ponto de partida de cada aluno e da turma.
+### 4. Programação
+Marque a alternativa que melhor representa seu conhecimento:
 
-As avaliações bimestrais e demais atividades:
-- utilizam as mesmas capabilities;
-- atualizam os valores de cada aluno;
-- permitem calcular o **delta de evolução** ao longo do tempo.
-
-### 4.1 Delta de Aprendizado
-
-O delta representa a diferença entre o nível atual e o nível anterior de uma capability.
-
-Exemplo:
-- Organização de dados: de 1 → 3  
-- Delta positivo indica evolução real, independentemente do ponto de partida.
-
-Esse modelo valoriza:
-- esforço contínuo;
-- progresso individual;
-- recuperação de dificuldades ao longo do curso.
+( ) Já programei em projetos pessoais  
+( ) Já programei apenas na escola  
+( ) Já estudei, mas nunca pratiquei  
+( ) Sei o que é, mas não sei fazer  
+( ) Nunca tive contato  
 
 ---
 
-### 4.2 Critério de Aprovação
-
-A aprovação na disciplina considera:
-- participação nas avaliações;
-- evolução ao longo do tempo;
-- consolidação mínima das principais capabilities;
-- cumprimento das exigências institucionais de frequência e atividades obrigatórias.
-
-O sistema reconhece que alunos aprendem em ritmos diferentes e prioriza **aprendizado consistente**, não apenas desempenho pontual.
+### 5. Banco de Dados
+( ) Já utilizei em projetos pessoais  
+( ) Já utilizei em atividades da escola  
+( ) Já estudei, mas nunca utilizei na prática  
+( ) Já ouvi falar, mas não sei explicar  
+( ) Nunca ouvi falar  
 
 ---
 
-## 5. Conclusão e Reconhecimento Coletivo
+### 6. Sistemas de Banco de Dados  
+(PostgreSQL, MySQL ou similares)
 
-Ao final do ano letivo, a evolução da turma será analisada de forma coletiva, considerando:
-- crescimento médio das capabilities;
-- melhoria contínua ao longo dos bimestres;
-- engajamento e cooperação entre os alunos.
+( ) Já utilizei diretamente  
+( ) Já vi alguém utilizar  
+( ) Sei para que servem  
+( ) Já ouvi o nome, mas não sei explicar  
+( ) Nunca ouvi falar  
 
-Como forma de reconhecimento simbólico e celebração do esforço coletivo, será proposto um **evento de encerramento**, baseado na melhoria geral da turma ao longo do ano.
+---
 
-Esse momento tem como objetivo:
-- fortalecer o senso de grupo;
-- valorizar o esforço conjunto;
-- criar uma memória positiva associada ao aprendizado técnico.
+### 7. Linguagem SQL
+( ) Já escrevi comandos SQL  
+( ) Já executei comandos prontos  
+( ) Sei que é usada para consultar dados  
+( ) Já ouvi falar, mas não sei como funciona  
+( ) Nunca ouvi falar  
 
-Mais do que uma recompensa, trata-se de um **ritual de fechamento de ciclo**, reforçando que aprendizado, cooperação e evolução caminham juntos.
+---
+
+### 8. Ferramentas
+Marque todas que você já utilizou ou conhece:
+
+[ ] IDE (VS Code, Eclipse, PyCharm, etc.)  
+[ ] Prompt / Terminal  
+[ ] Ferramentas de banco de dados (MySQL Workbench, pgAdmin, etc.)  
+[ ] Git ou GitHub  
+[ ] Planilhas (Excel, Google Sheets)  
+[ ] Nunca utilizei nenhuma dessas ferramentas  
+
+---
+
+# PARTE 3 — Organização do Pensamento (Programação)
+
+### 9.
+
+Imagine um sistema simples para controlar a biblioteca da escola.
+
+Explique:
+- Que tipos de informações precisariam ser organizadas  
+- O que pertence a cada tipo de informação  
+
+---
+
+### 10.
+
+Pense em um **livro** dentro desse sistema.
+
+Responda:
+- Que informações sobre ele precisam ser guardadas?  
+- Que coisas podem acontecer com ele dentro do sistema?  
+
+---
+
+### 11.
+
+Explique como o sistema poderia impedir que um livro já emprestado seja emprestado novamente.
+
+---
+
+### 12.
+
+A escola decide que professores podem pegar mais livros que alunos.
+
+Explique:
+- O que mudaria nas informações  
+- O que mudaria nas regras  
+
+---
+
+### 13.
+
+Qual a diferença entre:
+- Informações que descrevem algo  
+- Ações que podem acontecer com esse algo  
+
+Dê um exemplo simples.
+
+---
+
+# PARTE 4 — Pensamento em Dados (Banco de Dados)
+
+### 14.
+
+Explique, com suas palavras, o que você entende por **banco de dados**.
+
+---
+
+### 15.
+
+Observe os exemplos abaixo:
+
+- Criar uma tabela de livros  
+- Inserir um novo livro  
+- Buscar livros cadastrados  
+
+Explique qual tipo de ação representa:
+- DDL  
+- DML  
+- Consulta de dados  
+
+(Não escreva comandos.)
+
+---
+
+### 16.
+
+Explique a diferença entre:
+- Guardar dados em uma planilha  
+- Guardar dados em um banco de dados  
+
+---
+
+### 17.
+
+Explique como um sistema poderia evitar:
+- Emprestar um livro que não existe  
+- Emprestar um livro para uma pessoa não cadastrada  
+
+---
+
+### 18.
+
+Como o sistema poderia responder à pergunta:
+
+> “Quem está com livros emprestados neste momento?”
+
+Explique o raciocínio.
+
+---
+
+### 19. Reflexão Final
+
+Na sua opinião, o que é mais difícil em tecnologia:
+- aprender ferramentas  
+- ou aprender a pensar a solução?
+
+Explique.
+
+---
+
+**Fim da Avaliação**
