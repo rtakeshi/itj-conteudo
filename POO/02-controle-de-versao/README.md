@@ -1,4 +1,5 @@
 # Sistema de Controle de Versão (git)
+Foi dado em sala!
 
 ## Introdução rápida
 
