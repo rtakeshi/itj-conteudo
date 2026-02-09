@@ -1,4 +1,5 @@
 # Sistema de Controle de Versão (git)
+Foi dado em sala!
 
 ## Introdução rápida
 
@@ -33,5 +34,3 @@ Git é um sistema de controle de versão distribuído usado para registrar mudan
 - `git revert <commit>`: Cria um novo commit que desfaz as alterações de um commit anterior (mais seguro que reset para histórico compartilhado).
 - `git tag <nome>`: Marca um ponto no histórico (útil para versões/releases).
 - `git config --global user.name "Nome"` e `git config --global user.email "email@ex.com"`: Configura usuário para commits.
-
-
