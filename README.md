@@ -4,9 +4,58 @@
 Este repositório é a fonte de referência das disciplinas **Programação Orientada a Objetos (POO)** e **Banco de Dados** do ITJ — Instituto de Tecnologia de Jacareí. Essas disciplinas fazem parte do núcleo do Curso Técnico em Informática. Aqui você encontrará materiais de aula, exemplos, exercícios e recursos de apoio para alunos e professores.
 
 ## Estrutura do repositório
+O repositório está organizado em duas disciplinas principais, cada uma com suas módulos temáticos e materiais de apoio. Abaixo está o mapa completo:
 
+```
+itj-conteudo/
+│
+├── README.md (este arquivo)
+│
+├──  BD3-4/ (Banco de Dados - Classe 3 e 4)
+│   ├── README.md
+│   ├── 01-mercado/ (Mercado de Dados e Contexto)
+│   ├── 02-modelagem-ER/ (Modelagem Entidade-Relacionamento)
+│   ├── 03-normalizacao/ (Normalização de Dados)
+│   ├── 04-sql-basico/ (SQL Básico)
+│   ├── 05-sql-avancado/ (SQL Avançado)
+│   ├── 06-procedures-triggers/ (Stored Procedures e Triggers)
+│   ├── 07-otimizacao-indices/ (Otimização e Índices)
+│   ├── 08-backup-recovery/ (Backup e Recuperação)
+│   ├── 09-nosql-integracao/ (NoSQL e Integração)
+│   └── 10-projeto-final/ (Projeto Integrador)
+│
+├──  POO/ (Programação Orientada a Objetos)
+│   ├── README.md
+│   ├── 01-apresentacao_e_mercado/ (Apresentação e Mercado de TI)
+│   ├── 02-controle-de-versao/ (Git e Controle de Versão)
+│   ├── 03-introducao-oo/ (Introdução aos Conceitos OO)
+│   ├── 04-apis-java/ (APIs e Bibliotecas Java)
+│   ├── 05-associacao-entre-classes/ (Associação e Composição)
+│   ├── 06-testes-documentacao/ (Testes Unitários e Documentação)
+│   ├── 07-heranca/ (Herança)
+│   ├── 08-classe-abstrata-interface/ (Classes Abstratas e Interfaces)
+│   ├── 09-uso-apis-java/ (Uso Prático de APIs Java)
+│   ├── 10-processo-desenvolvimento/ (Processo de Desenvolvimento)
+│   └── 11-python/ (Introdução a Python)
+│
+└──  Sistema-Avaliacao/ (Arquitetura e Ferramentas de Avaliação)
+    ├── README.md
+    ├── arquitetura_modelagem.excalidraw (Diagramas de Arquitetura)
+    ├── avaliacao_tratamento_de_dados.ipynb (Análise de Dados)
+    └── 01-diagnostico/ (Diagnóstico de Aprendizagem)
+        ├── avaliacao.md (Conteúdo de Avaliação)
+        └── template.md (Template para correção)
+```
 
+### Explicação das seções
 
+**BD3-4** - Disciplina de Banco de Dados com 10 módulos sequenciais, começando pelo entendimento do mercado e evoluindo até otimização avançada e projeto final integrador.
+
+**POO** - Disciplina de Programação Orientada a Objetos com 11 módulos que cobrem desde conceitos fundamentais até a aplicação profissional em Java e Python.
+
+**Sistema-Avaliacao** - Recursos para avaliação contínua dos alunos, incluindo rubricas de avaliação, ferramentas de diagnóstico e análise de dados de desempenho.
+
+---
 
 # Aprendizagem em Pares no Ensino Técnico de Programação
 
@@ -73,6 +122,7 @@ Essa abordagem aproxima o ambiente educacional das práticas reais da área de t
 ---
 
 ## Estrutura do Trabalho em Pares
+
 
 ### Formação dos pares
 
