@@ -47,15 +47,7 @@ itj-conteudo/
         └── template.md (Template para correção)
 ```
 
-### Explicação das seções
 
-**BD3-4** - Disciplina de Banco de Dados com 10 módulos sequenciais, começando pelo entendimento do mercado e evoluindo até otimização avançada e projeto final integrador.
-
-**POO** - Disciplina de Programação Orientada a Objetos com 11 módulos que cobrem desde conceitos fundamentais até a aplicação profissional em Java e Python.
-
-**Sistema-Avaliacao** - Recursos para avaliação contínua dos alunos, incluindo rubricas de avaliação, ferramentas de diagnóstico e análise de dados de desempenho.
-
----
 
 # Aprendizagem em Pares no Ensino Técnico de Programação
 
