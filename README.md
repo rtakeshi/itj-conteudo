@@ -1,7 +1,14 @@
+
+# Repositório de Conteúdo para alunos do ITJ
+
 Este repositório é a fonte de referência das disciplinas **Programação Orientada a Objetos (POO)** e **Banco de Dados** do ITJ — Instituto de Tecnologia de Jacareí. Essas disciplinas fazem parte do núcleo do Curso Técnico em Informática. Aqui você encontrará materiais de aula, exemplos, exercícios e recursos de apoio para alunos e professores.
 
+## Estrutura do repositório
 
-# 📘 Aprendizagem em Pares no Ensino Técnico de Programação
+
+
+
+# Aprendizagem em Pares no Ensino Técnico de Programação
 
 
 
@@ -9,7 +16,7 @@ Este repositório é a fonte de referência das disciplinas **Programação Orie
 
 ---
 
-## ✨ Contexto
+## Contexto
 
 As disciplinas de **Programação Orientada a Objetos (POO)** e **Banco de Dados** exigem do estudante habilidades cognitivas complexas, como abstração, modelagem, raciocínio lógico e tomada de decisão.
 
@@ -19,7 +26,7 @@ Mais do que uma escolha metodológica, trata-se de uma estratégia para tornar o
 
 ---
 
-## 🧠 Fundamentação Pedagógica
+## Fundamentação Pedagógica
 
 ### Aprendizagem ativa e social
 
@@ -49,7 +56,7 @@ Explicar um código para outra pessoa é uma das formas mais eficazes de consoli
 
 ---
 
-## 💼 Alinhamento com o Mercado de Trabalho
+## Alinhamento com o Mercado de Trabalho
 
 O desenvolvimento de software no mercado atual é essencialmente colaborativo.
 
@@ -65,7 +72,7 @@ Essa abordagem aproxima o ambiente educacional das práticas reais da área de t
 
 ---
 
-## 🧩 Estrutura do Trabalho em Pares
+## Estrutura do Trabalho em Pares
 
 ### Formação dos pares
 
@@ -97,7 +104,7 @@ Os papéis são alternados periodicamente, garantindo participação ativa de am
 
 ---
 
-## ⏱️ Dinâmica de Aula (Modelo)
+## Dinâmica de Aula (Modelo)
 
 Uma aula prática pode ser organizada da seguinte forma:
 
@@ -115,7 +122,7 @@ Uma aula prática pode ser organizada da seguinte forma:
 
 ---
 
-## 📝 Avaliação
+## Avaliação
 
 A avaliação considera tanto o trabalho em dupla quanto a responsabilidade individual.
 
@@ -128,7 +135,7 @@ Esse equilíbrio garante engajamento coletivo sem perda de autoria individual.
 
 ---
 
-## 🔧 Aplicação em Programação Orientada a Objetos
+## Aplicação em Programação Orientada a Objetos
 
 A POO envolve discutir conceitos como:
 
@@ -140,7 +147,7 @@ Essas decisões se beneficiam diretamente do diálogo entre os alunos, promovend
 
 ---
 
-## 🗄️ Aplicação em Banco de Dados
+## Aplicação em Banco de Dados
 
 Em Banco de Dados, o trabalho em pares favorece:
 
@@ -153,7 +160,7 @@ A interação entre os alunos espelha práticas comuns no ambiente profissional.
 
 ---
 
-## 🎓 Papel do Professor
+## Papel do Professor
 
 Nesse modelo, o professor atua como **mediador do aprendizado**, estimulando questionamentos, acompanhando o progresso dos pares e promovendo reflexões técnicas.
 
@@ -161,7 +168,20 @@ O foco deixa de ser apenas a transmissão de conteúdo e passa a ser a **constru
 
 ---
 
-## ✅ Considerações Finais
+# Sistema de Avaliação
+
+Este curso adota um modelo de avaliação que vai além da simples atribuição de notas.  
+O objetivo principal é **medir, acompanhar e estimular a evolução real dos alunos ao longo do tempo**, considerando não apenas o resultado final, mas o processo de aprendizagem.
+
+A avaliação diagnóstica inicial tem como finalidade:
+- identificar conhecimentos prévios da turma;
+- mapear diferentes níveis de entendimento e contato com ferramentas;
+- servir como **linha de base (baseline)** para acompanhar a evolução individual e coletiva ao longo do ano letivo.
+
+As avaliações subsequentes (bimestrais, trabalhos e projetos) não substituem essa proposta, mas **alimentam continuamente o mesmo sistema de análise**, permitindo observar crescimento, consolidação e amadurecimento técnico.
+
+
+## Considerações Finais
 
 A adoção do trabalho em pares nas disciplinas de POO e Banco de Dados contribui para:
 
@@ -174,7 +194,7 @@ Trata-se de uma abordagem que valoriza o aprendizado colaborativo e prepara o es
 
 
 
-## 🤖 Uso Ético de IA Generativa
+## Uso Ético de IA Generativa
 
 O uso de ferramentas de **IA generativa** é permitido e incentivado neste curso, desde que feito de forma **ética, crítica e responsável**, com foco no aprendizado real.
 
