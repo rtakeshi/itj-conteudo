@@ -166,15 +166,13 @@ print("Média:", media)
 
 # Resumo Final
 
-  Conceito   Definição
-  ---------- ---------------------------------
-  Variável   Armazena dados
-  Função     Organiza comportamento
-  Classe     Organiza dados e comportamentos
-  Método     Função dentro da classe
-  Objeto     Instância de uma classe
-
-------------------------------------------------------------------------
+| Conceito | Definição |
+|----------|-----------|
+| Variável | Armazena dados |
+| Função | Organiza comportamento |
+| Classe | Organiza dados e comportamentos |
+| Método | Função dentro da classe |
+| Objeto | Instância de uma classe |
 
 # Resultado Esperado
 
