@@ -130,16 +130,16 @@ Role (1) -------- (N) User
 ## Em Java
 
 ``` java
-class Role {
-    int id;
-    String nome;
+public class Role {
+    private int id;
+    private String nome;
 }
 
-class User {
-    int id;
-    String nome;
-    String email;
-    Role role;
+public class User {
+    private int id;
+    private String nome;
+    private String email;
+    private Role role;
 }
 ```
 
