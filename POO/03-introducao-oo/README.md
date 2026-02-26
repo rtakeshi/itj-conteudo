@@ -1,8 +1,8 @@
-# Introducao ao Paradigma da Orientacao a Objetos e a Linguagem Java
+﻿# Introdução ao Paradigma da Orientação a Objetos e a Linguagem Java
 
 ------------------------------------------------------------------------
 
-## 1. Antes de tudo: o que e Java?
+## 1. Antes de tudo: o que é Java?
 
 Java é um ecossistema
 
@@ -13,22 +13,22 @@ Para entender Java, precisamos entender dois elementos fundamentais:
 
 ### JDK (Java Development Kit)
 
-E o kit de desenvolvimento. Contem compilador, bibliotecas e ferramentas
-necessarias para criar programas em Java.
+É o kit de desenvolvimento. Contém compilador, bibliotecas e ferramentas
+necessárias para criar programas em Java.
 
-Sem JDK, voce nao desenvolve.
+Sem JDK, você não desenvolve.
 
 ### JVM (Java Virtual Machine)
 
-E a maquina virtual que executa o codigo Java.
+É a máquina virtual que executa o código Java.
 
-O codigo nao roda direto no sistema operacional. Ele roda dentro da JVM.
+O código não roda direto no sistema operacional. Ele roda dentro da JVM.
 
 Isso permite portabilidade.
 
 Escreva uma vez. Execute em qualquer lugar.
 
-Esse conceito explica por que Java esta presente em bilhoes de
+Esse conceito explica por que Java está presente em bilhões de
 dispositivos ao redor do mundo.
 
 ------------------------------------------------------------------------
@@ -37,38 +37,38 @@ dispositivos ao redor do mundo.
 
 Fluxo simplificado:
 
-Codigo .java → Compilador (JDK) → Bytecode (.class) → JVM → Execucao
+Código .java → Compilador (JDK) → Bytecode (.class) → JVM → Execução
 
-Cada sistema operacional possui sua propria JVM. O bytecode e o mesmo.
+Cada sistema operacional possui sua própria JVM. O bytecode é o mesmo.
 
 Por isso o mesmo programa pode rodar em Windows, Linux, Mac e outros
 ambientes.
 
 ------------------------------------------------------------------------
 
-## 3. O Paradigma da Orientacao a Objetos
+## 3. O Paradigma da Orientação a Objetos
 
-Orientacao a Objetos é um paradigma de organização de sistemas.
+Orientação a Objetos é um paradigma de organização de sistemas.
 
-Ela se baseia em representar o mundo atraves de:
+Ela se baseia em representar o mundo através de:
 
 -   Classes
 -   Objetos
 -   Atributos
--   Metodos
+-   Métodos
 
 Esses termos precisam estar completamente claros.
 
-Sem entender profundamente esses conceitos, nao ha evolucao consistente
+Sem entender profundamente esses conceitos, não há evolução consistente
 em POO.
 
 ------------------------------------------------------------------------
 
-## 4. Conceitos Fundamentais (Decoracao Obrigatoria)
+## 4. Conceitos Fundamentais (Decoração Obrigatória)
 
 ### Classe
 
-E um molde. Define estrutura e comportamento.
+É um molde. Define estrutura e comportamento.
 
 Exemplo:
 
@@ -76,21 +76,21 @@ Uma classe "Carro" define o que todo carro deve ter e fazer.
 
 ### Objeto
 
-E a instancia de uma classe. E algo concreto criado a partir do molde, é o pedacinho da memória RAM dedicada a representação da classe.
+É a instância de uma classe. É algo concreto criado a partir do molde, é o pedacinho da memória RAM dedicada à representação da classe.
 
-Se "Carro" e a classe, "meuCarro" e um objeto.
+Se "Carro" é a classe, "meuCarro" é um objeto.
 
 ### Atributo
 
-E uma caracteristica da classe. Representa estado.
+É uma característica da classe. Representa estado.
 
 Exemplo:
 
 cor ano modelo
 
-### Metodo
+### Método
 
-E uma acao. Representa comportamento.
+É uma ação. Representa comportamento.
 
 Exemplo:
 
@@ -108,9 +108,9 @@ No Banco de Dados falamos em:
 Na POO falamos em:
 
 -   Classes
--   Associacoes
+-   Associações
 
-Ambos representam a mesma realidade. A diferenca esta na camada.
+Ambos representam a mesma realidade. A diferença está na camada.
 
 Banco organiza dados. POO organiza comportamento e regras de negócio.
 
@@ -121,18 +121,18 @@ Banco organiza dados. POO organiza comportamento e regras de negócio.
 Ferramentas utilizadas:
 
 -   IDE: VSCode
--   Extensao: Extension Pack for Java (Microsoft)
--   JDK: versao 25
+-   Extensão: Extension Pack for Java (Microsoft)
+-   JDK: versão 25
 
 Passos realizados:
 
-1.  Instalacao da JDK
-2.  Instalacao da extensao Java no VSCode
-3.  Criacao de um novo projeto Java
-4.  Criacao da classe principal
-5.  Execucao do programa
+1.  Instalação da JDK
+2.  Instalação da extensão Java no VSCode
+3.  Criação de um novo projeto Java
+4.  Criação da classe principal
+5.  Execução do programa
 
-Exemplo de codigo:
+Exemplo de código:
 
 ``` java
 public class Main {
@@ -144,22 +144,22 @@ public class Main {
 
 ------------------------------------------------------------------------
 
-## 7. Estrutura minima que precisa ser entendida (Palavras reservadas do Java)
+## 7. Estrutura mínima que precisa ser entendida (Palavras reservadas do Java)
 
 public → modificador de acesso\
 class → define uma classe\
-static → pertence a classe\
-void → nao retorna valor\
+static → pertence à classe\
+void → não retorna valor\
 main → ponto de entrada do programa\
-String\[\] args → parametros de execucao
+String\[\] args → parâmetros de execução
 
-Cada palavra tem significado tecnico. Nada esta ali por acaso.
+Cada palavra tem significado técnico. Nada está ali por acaso.
 
 ------------------------------------------------------------------------
 
 ## 8. Mentalidade correta para aprender POO
 
-1.  Entender profundamente os conceitos basicos.
+1.  Entender profundamente os conceitos básicos.
 2.  Praticar criando pequenas classes.
 3.  Pensar sempre em responsabilidade.
 4.  Separar estado de comportamento.
@@ -167,14 +167,13 @@ Cada palavra tem significado tecnico. Nada esta ali por acaso.
 
 ------------------------------------------------------------------------
 
-## 9. Conclusao
+## 9. Conclusão
 
-Orientacao a Objetos e a base para:
+Orientação a Objetos é a base para:
 
 -   Desenvolvimento de sistemas
 -   Arquitetura de software
--   Integracao com banco de dados
--   Aplicacoes empresariais
+-   Integração com banco de dados
+-   Aplicações empresariais
 
-O aprendizado se direciona a formação do senso crítico em Programação Orientada a Objetos.
-
+O aprendizado se direciona à formação do senso crítico em Programação Orientada a Objetos.
